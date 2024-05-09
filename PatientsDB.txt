@@ -1,0 +1,10 @@
+Name Age Gender Contact Username Password
+Jennifer_Aniston 55 Female 1234567890 JenniferAniston password1
+Brad_Pitt 60 Male 3458790523 BradPitt password2
+Kendall_Jenner 28 Female 3926230118 KendallJenner password3
+Ryan_Reynolds 47 Male 6782306016 RyanReynolds password4
+Kylie_Jenner 26 Female 3392654920 KylieJenner password5
+Dwayne_Johnson 51 Male 60363208088 DwayneJohnson password6
+Vin_Diesel 56 Male 3027042164 VinDiesel password7
+Khloe_Kardashian 39 Female 7832043772 KhloeKardashian password8
+Will_Smith 55 Male 3392026849 WillSmith password9
